@@ -92,7 +92,7 @@ export default function Hero() {
               <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96">
                 <div className="w-full rounded-t-full overflow-hidden border-4 border-indigo-500/50 shadow-2xl shadow-indigo-500/50 card-hover">
                   <img
-                    src="/aj.jpg"
+                    src="/public/aj.jpg"
                     alt="Anjini Nandina"
                     className="w-full h-full object-cover"
                   />
